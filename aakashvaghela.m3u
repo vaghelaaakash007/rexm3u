@@ -1,6 +1,9 @@
 #EXTM3U
 
-#EXTINF:199, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXzpeLvzM8BdxkI29UT0AA35IoyCK472Y5tb83cY-VWv5LPni2QZ-uyFk&s=10", Ram Setu 2022 (720p)
+#EXTINF:-200, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHLjcERxBv4y2NTrOkcGa4AlgcXCth9mVRLvAy3GnQ--2addL7M-BNyp7d&s=10", Moana 2 HD (Dual Audio)
+https://icloud-storage.cdncloud.store/?query=ZWRmbnhzLzE4NTI3MTYzNDkucG55P3VodnNycXZoLWZycXdocXctZ2x2c3J2bHdscnE9ZHd3ZGZrcGhxdyUzRSUyMGlsb2hxZHBoJTNHJTIyUHJkcWQlMjAyJTIwMjAyNCUyMEVveFVkYiUyMDEwODBzJTIwYTI2NSUyMEtIWUYlMjAxMGVsdyUyMEtscWdsJTIwSHFqb2x2ayUyMEdHJTIwNS4xJTIwSFZ4ZSUyMC0lMjBwbnlGbHFocGR2LnBueSUyMiZBLURwYy1GcnF3aHF3LVZrZDI1Nj1YUVZMSlFIRy1TREJPUkRHJkEtRHBjLURvanJ1bHdrcD1EWlY0LUtQREYtVktEMjU2JkEtRHBjLUZ1aGdocXdsZG89NzM3ZmU4NWg5ZWg1M2RkaTJoaGYxNzlnMWYwOTI2MmklMkkyMDI1MDQwMSUySWR4d3IlMkl2MyUySWR6djRfdWh0eGh2dyZBLURwYy1HZHdoPTIwMjUwNDAxVzEzMDIxMUMmQS1EcGMtVmxqcWhnS2hkZ2h1dj1rcnZ3JkEtRHBjLUhhc2x1aHY9MTA4MDAmQS1EcGMtVmxqcWR3eHVoPTMxaDNnNTNlaTY3NjExaWlmNGc1N2loMWk3ZDkzaWU3MjZmODY2aWYxZTVlaGY1aWcxZ2llNTVkNTc4NjgxMjU%3D&sd=5aba8f1f4aa4fec6f21793dc9551a263
+
+#EXTINF:-199, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXzpeLvzM8BdxkI29UT0AA35IoyCK472Y5tb83cY-VWv5LPni2QZ-uyFk&s=10", Ram Setu 2022 (720p)
 https://www.googleapis.com/drive/v3/files/1vxoecYC9YJRGqmJ0XXQP9QX8uwVVYWeW?alt=media&key=AIzaSyD0SxLSv34ivId5qpj-sIbbJY9xSmp16Ac
 
 #EXTINF:-198, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqXYCG9RZT8Iovky8RywshNbkbeUuY61l4HSiwAXcxhN3_lyjw9-dK-iI&s=10", Van Helsing 2004 (Dual Audio) SD
