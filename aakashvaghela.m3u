@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-205, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQUVuXvxQV2f5iE_4cFk5rHPKa8e-CgdO_Bw&s", Locked (2025) Dual Audio 480p
+https://www.googleapis.com/drive/v3/files/1nhOYwkTuPMmbucFvkXbqtnHr_fkcRw_w?alt=media&key=AIzaSyD0SxLSv34ivId5qpj-sIbbJY9xSmp16Ac
+
 #EXTINF:-204, tvg-logo="https://img.hotstar.com/image/upload/f_auto,t_vl/sources/r1/cms/prod/7166/1754999107166-v", Motu Patlu vs The Ghost House 480p
 https://www.googleapis.com/drive/v3/files/1SsYR22F-T9dDIotaSS0CGPnEV42ZjSOp?alt=media&key=AIzaSyD0SxLSv34ivId5qpj-sIbbJY9xSmp16Ac
 
